@@ -1,7 +1,6 @@
 package io.jenkins.plugins.sonar.coverage;
 
 import hudson.Extension;
-import io.jenkins.plugins.coverage.adapter.CoverageAdapterDescriptor;
 import io.jenkins.plugins.coverage.adapter.CoverageReportAdapter;
 import io.jenkins.plugins.coverage.adapter.CoverageReportAdapterDescriptor;
 import io.jenkins.plugins.coverage.adapter.util.XMLUtils;
